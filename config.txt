@@ -1,1 +1,1 @@
-developer mode on
+production mode on
